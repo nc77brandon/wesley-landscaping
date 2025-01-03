@@ -1,0 +1,76 @@
+/* Home Page Container */
+.home-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+  }
+  
+  /* Intro Section */
+  .intro {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .intro h1 {
+    font-size: 2.5rem;
+    color: #2e8b57; /* Forest green */
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .company-name {
+    color: #228b22; /* Dark green for emphasis */
+  }
+  
+  .intro p {
+    font-size: 1.2rem;
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  /* Services Section */
+  .services {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 40px;
+  }
+  
+  .services h2 {
+    font-size: 2rem;
+    color: #2e8b57;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .services ul {
+    list-style-type: none;
+    padding: 0;
+    font-size: 1.1rem;
+  }
+  
+  .services li {
+    padding-left: 20px;
+    background: url('http://www.w3.org/2000/svg') no-repeat left center;
+    background-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  /* Call to Action Section */
+  .cta {
+    text-align: center;
+    background-color: #2e8b57;
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .cta p {
+    font-size: 1.2rem;
+    margin-bottom: 0;
+    font-weight: bold;
+  }
+  
