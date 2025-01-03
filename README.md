@@ -14,19 +14,19 @@ Welcome to the **Wesley Landscaping** website! This website is designed to showc
 ## Screenshots
 
 ### Home Page
-![Home Page](readmePhotos/home.png)
+![Home Page](./readmePhotos/home.png)
 
 ### About Page
-![About Page](readmePhotos/about.png)
+![About Page](./readmePhotos/about.png)
 
 ### Services Page
-![Services Page](readmePhotos/services.png)
+![Services Page](./readmePhotos/services.png)
 
 ### Reviews Page
-![Reviews Page](readmePhotos/reviews.png)
+![Reviews Page](./readmePhotos/reviews.png)
 
 ### Contact Page
-![Contact Page](readmePhotos/contact.png)
+![Contact Page](./readmePhotos/contact.png)
 
 ## Installation
 
